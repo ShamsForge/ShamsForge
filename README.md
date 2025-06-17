@@ -1,5 +1,5 @@
 # 💫 About Me:
-17<br>Loves Linux<br>Currently Learning Data Science, ML/AI
+17<br>Loves Linux<br>Currently Learning Data Science, ML/AI and Backend Development
 
 
 ## 🌐 Socials:
