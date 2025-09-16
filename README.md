@@ -1,41 +1,6 @@
-<h2>I'm Shaurya, But call me Shams :)</h2>
-<p><em>Staff Software Enginner</br>
-</em></p>
+<h2>I'm Shaurya, but call me Shams :)</h2>
 
-<a
-id="cy-effective-orcid-url"
-class="underline"
-href="https://orcid.org/0009-0009-2646-7278"
-target="orcid.widget"
-rel="me noopener noreferrer"
-style="vertical-align: top">
-<img
-src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-style="width: 1em; margin-inline-start: 0.5em"
-alt="ORCID iD icon"/>
-https://orcid.org/0009-0009-2646-7278
-</a>
-
-> I'm curious, enthusiastic and student most of the time, like the rest of the time to write code, especially in Javascript.
+> Obsessed with Programming, Tech, and Startups. Especially Creating Backend systems, Bash Scripts, System Design, & Cloud Engineering.
+> Also just love Automobile engineering in my free time.
 
 ---
-
-A little more about me... with npm installed, just type
-
-```
-npx ridermansb
-```
-
-<img alt="screenshot" src="https://github.com/Ridermansb/ridermansb/blob/master/Screen%20Shot.png?raw=true" />
-
-**Skills:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![Riderman's github stats](https://github-readme-stats.vercel.app/api?username=ridermansb&show_icons=true&hide_border=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridermansb&layout=compact&langs_count=8"/>
