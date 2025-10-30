@@ -5,3 +5,5 @@
 > Also just love Automobile engineering in my free time.
 
 ---
+
+![Metrics](/github-metrics.svg)
