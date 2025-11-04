@@ -7,5 +7,5 @@
 ---
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="./metrics.svg" alt="Metrics" width="100%">
 </picture>
